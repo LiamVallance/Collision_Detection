@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pworld.cpp
+  pcontacts.cpp
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\include\coremath.h(143): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\src\pcontacts.cpp(86): warning C4056: overflow in floating-point constant arithmetic
+  particle.cpp
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\include\coremath.h(143): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\src\particle.cpp(25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\src\particle.cpp(40): warning C4056: overflow in floating-point constant arithmetic
+  main.cpp
+  BlobDemo.cpp
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\src\blobdemo.cpp(35): warning C4305: 'argument': truncation from 'double' to 'const float'
+d:\users\liamv\documents\onedrive - university of south wales\documents\uni work\mcomp\object oriented data structure algorithms\coursework\cs4d768 tutorial 6-2015student_ooblob\src\blobdemo.cpp(375): warning C4305: 'initializing': truncation from 'double' to 'float'
+  app.cpp
+  Generating Code...
+  Sphere.vcxproj -> D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\MComp\Object Oriented Data Structure Algorithms\Coursework\CS4D768 Tutorial 6-2015Student_OOblob\Sphere\..\Debug\Sphere.exe
+  Sphere.vcxproj -> ..\Debug\Sphere.pdb (Full PDB)
